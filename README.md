@@ -20,3 +20,5 @@ Results and Recommendations:
 1. Zipcode 98134 has the highest average nightly rate at $207, nearly double the lowest-performing zipcodes, highlighting strong location-based pricing disparity
 2. 1-bedroom listings dominate the Seattle market at 63% of total
 3. The summer months show a noticeable plateau in revenue growth
+
+<img width="3411" height="1215" alt="image" src="https://github.com/user-attachments/assets/f1f86526-3b5d-4ce8-a4a4-6a5e2be2d8e7" />
